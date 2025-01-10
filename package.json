@@ -1,0 +1,19 @@
+{
+  "name": "crypto_data_tracker",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000r\u0000y\u0000p\u0000t\u0000o\u0000_\u0000D\u0000a\u0000t\u0000a\u0000_\u0000T\u0000r\u0000a\u0000c\u0000k\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mathjs": "^14.0.1",
+    "mongoose": "^8.9.4",
+    "node-cron": "^3.0.3"
+  }
+}
